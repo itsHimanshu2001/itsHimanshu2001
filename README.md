@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
 <h3 align="center">A passionate competitive programmer from India, interested in web development.</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algo**
+- 🌱 SWE @Microsoft | Ex Wells Fargo**
 
-- 👨‍💻 My codechef profile [here](https://www.codechef.com/users/itshimanshu007)
 
-- 💬 Ask me about **C++, Python, DSA**
-
-- 📫 How to reach me **himanshuguptaking12@gmail.com**
-
-- 📄 my hackerrank profile [here](https://www.hackerrank.com/itshimanshu)
-
-- ⚡ **I am new to all these stuffs**
 
 <h3 align="left">Connect with me:</h3>
 
